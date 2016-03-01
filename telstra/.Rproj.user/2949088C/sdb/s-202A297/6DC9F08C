@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1456770137514.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6DC9F08C",
+    "lastKnownWriteTime" : 7359480115001635633,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "df_sev",
+        "contentUrl" : "content?title=df_sev&file=f1c5d5fa79b24a90a241ee97a46b331f.htm",
+        "displayedObservations" : "726",
+        "displayedVariables" : 14,
+        "totalObservations" : "726",
+        "variables" : "13"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

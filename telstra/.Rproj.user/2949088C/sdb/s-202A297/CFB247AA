@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1456772744018.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CFB247AA",
+    "lastKnownWriteTime" : 3539882221934489888,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "train2",
+        "contentUrl" : "content?title=train2&file=99c2e931a3fd49f6bef0992cbfc5fa83.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 5,
+        "totalObservations" : 7381,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
